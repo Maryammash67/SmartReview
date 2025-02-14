@@ -13,7 +13,10 @@ This is a clear picture of the task
 
 
 # Ai Chat Bot For queries Regarding the selected Product
-This is the AI chat bot where customers can ask question regarding the product where this bot will reply according to the reviews of the product and the description of the product.
-![image](https://github.com/user-attachments/assets/1ab5eb70-726e-40d1-b53f-34417bb05b43)
+This is the AI chatbot where customers can ask questions regarding the product and this bot will reply according to the reviews of the product and the description of the product.
+
+![cahtbot (1)](https://github.com/user-attachments/assets/7a5099d8-1dc2-41e3-ad55-a8720125c941)
+
+
 
 
