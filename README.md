@@ -1,5 +1,8 @@
 # SmartReview
-
+Developed an Aspect-Based Sentiment Analysis (ABSA) system for customer reviews using BERT and deep learning models. The project involved data preprocessing, text tokenization, aspect classification, and sentiment analysis. Initially, an ABSA model was implemented, but due to false sentiment interpretations, BERT was chosen for better accuracy and contextual understanding. The system efficiently categorizes product aspects and evaluates sentiments, reducing false positives. Model training, evaluation, and deployment were performed, with testing conducted via Postman. The final implementation ensures more accurate sentiment analysis for customer feedback summarization.
+Additionally, a chatbot and AI-powered product summarization system were built using Open LLM, LangChain, and GPT-4 API. This system provides automated review summaries and enhances user interaction with AI-driven insights.
+The implementation includes model training, evaluation, and deployment, with testing conducted via Postman. The final solution ensures accurate sentiment analysis and AI-generated review summarization, improving product insights for customers.
+ 
 ![image](https://github.com/user-attachments/assets/3d7b417c-0806-4b52-bdc8-84209e1aa9dc)
 
 
