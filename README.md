@@ -8,5 +8,6 @@
 
 # Ai Chat Bot For queries Regarding the selected Product
 
-![image](https://github.com/user-attachments/assets/b11f5440-f6a6-464c-b388-5d985aa12517)
+![image](https://github.com/user-attachments/assets/1ab5eb70-726e-40d1-b53f-34417bb05b43)
+
 
